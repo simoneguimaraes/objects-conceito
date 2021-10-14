@@ -1,6 +1,6 @@
 ## Objects 
 
-```
+``` javascript
 let product = {
   name: 'headphones',
   price: 120,
